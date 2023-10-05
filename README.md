@@ -27,6 +27,6 @@ python main.py
 git clone 
 cd app
 source env/Script/activate
-pip3 install -r requirements.txt
+pip3 install -r requirements.txt #importante
 python3 main.py
 ```
